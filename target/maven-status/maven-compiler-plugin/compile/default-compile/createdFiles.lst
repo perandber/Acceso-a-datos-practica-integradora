@@ -1,0 +1,7 @@
+com\empresa\flota\main\model\Vehiculo.class
+com\empresa\flota\main\dao\GestorConfiguracion.class
+com\empresa\flota\main\Main.class
+com\empresa\flota\main\dao\GestorReportesXML$1.class
+com\empresa\flota\main\dao\GestorInventarioJSON.class
+com\empresa\flota\main\dao\GestorReportesXML.class
+com\empresa\flota\main\dao\GestorBackup.class

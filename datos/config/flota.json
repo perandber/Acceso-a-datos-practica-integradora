@@ -1,0 +1,18 @@
+[
+  {
+    "matricula": "0910-1291",
+    "marca": "Ford",
+    "modelo": "Ford 3",
+    "anyo": 2020,
+    "kms_recorridos": 1000,
+    "categoria": "M1"
+  },
+  {
+    "matricula": "12345OAA",
+    "marca": "BMW",
+    "modelo": "Modelo X",
+    "anyo": 2000,
+    "kms_recorridos": 56000,
+    "categoria": "M2"
+  }
+]

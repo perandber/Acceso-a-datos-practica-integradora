@@ -1,0 +1,50 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/perandber/.m2/repository/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar;C:/Users/perandber/.m2/repository/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/perandber/OneDrive - Conselleria d\'Educació/FP Superior 2/Acceso a datos/Proyectos java/RetoIntegrador/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/perandber/OneDrive - Conselleria d\'Educació/FP Superior 2/Acceso a datos/Proyectos java/RetoIntegrador/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'RetoIntegrador 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'RetoIntegrador 1.0-SNAPSHOT API'
+com.empresa.flota.dao
+com.empresa.flota.main
+com.empresa.flota.model
+C:\Users\perandber\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar = 1790605392400
+C:\Users\perandber\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar = 1790605392439
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\src\main\java = 1791224694200
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\allclasses-index.html = 1791225006307
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\allpackages-index.html = 1791225006312
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\element-list = 1791225006138
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\help-doc.html = 1791225006362
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\index-all.html = 1791225006348
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\index.html = 1791225006283
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\member-search-index.js = 1791225006322
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\module-search-index.js = 1791225006315
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\overview-summary.html = 1791225006354
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\overview-tree.html = 1791225006275
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\package-search-index.js = 1791225006318
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\search.html = 1791225006351
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\serialized-form.html = 1791225006201
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\tag-search-index.js = 1791225006324
+C:\Users\perandber\OneDrive - Conselleria d'Educació\FP Superior 2\Acceso a datos\Proyectos java\RetoIntegrador\target\reports\apidocs\type-search-index.js = 1791225006320
